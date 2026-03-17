@@ -15,3 +15,4 @@ for funeral homes built with NetBeans and MySQL.
 1. Import `coffincart.sql` into PHPMyAdmin
 2. Open project in NetBeans
 3. Run Main.java
+![Customer Dashboard](dashboard_preview.jpg)
